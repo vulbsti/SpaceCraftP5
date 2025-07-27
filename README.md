@@ -148,8 +148,8 @@ This project is automatically deployed to GitHub Pages. To deploy your own fork:
 ```
 SpaceCraftP5/
 ├── index.html              # Main HTML file with p5.js integration
-├── root/
-│   └── controlpanel.js     # Complete starship control panel code
+├── controlpanel.js         # Complete starship control panel code
+├── LICENSE                 # MIT License
 └── README.md              # Project documentation
 ```
 
