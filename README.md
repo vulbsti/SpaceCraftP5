@@ -2,6 +2,9 @@
 
 An immersive, interactive starship control panel simulation built with p5.js. Experience commanding a futuristic spacecraft with real-time radar, quantum core monitoring, holographic displays, and voice-controlled terminal commands.
 
+Got Inspired while reading [Project Hail Mary](https://www.amazon.in/Project-Hail-Mary-bestselling-Martian-ebook/dp/B08FFJS3YW) by Andy Weir. This project is a tribute to the imaginative control interfaces seen in sci-fi movies and literature.
+
+
 ![SpaceCraft Control Panel](https://img.shields.io/badge/Status-Operational-brightgreen) ![p5.js](https://img.shields.io/badge/p5.js-1.7.0-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## ✨ Features
@@ -130,18 +133,6 @@ This project is automatically deployed to GitHub Pages. To deploy your own fork:
 - **p5.js v1.7.0** - Creative coding library
 - **Web Audio API** - Sound simulation (placeholder implementation)
 - **Canvas API** - Hardware-accelerated rendering
-
-### Browser Compatibility
-- Chrome 80+ ✅
-- Firefox 75+ ✅
-- Safari 13+ ✅
-- Edge 80+ ✅
-
-### Performance
-- Optimized for 60 FPS
-- Responsive design (adapts to screen size)
-- Hardware-accelerated rendering
-- Efficient particle systems
 
 ## 📁 Project Structure
 
